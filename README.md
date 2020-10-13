@@ -53,9 +53,9 @@ Once completed, you can now move to the directory and start a "jupyter notebook"
 
 ## Credits
 
-**Conceptualization & Methodological review :** [Alexandros Korkovelos](https://github.com/akorkovelos) 
-**Code development** [Alexandros Korkovelos](https://github.com/akorkovelos) 
-**Review, Updates, Modifications:** [Alexandros Korkovelos](https://github.com/akorkovelos)
-**Supervision, Review and Advisory support:** [Benjamin P. Stewart](https://github.com/bpstewar), [Ashish Shrestha](mailto:ashrestha1@worldbank.org), [Rhonda Lenai Jordan](mailto:rjordan@worldbank.org)
+**Conceptualization & Methodological review :** [Alexandros Korkovelos](https://github.com/akorkovelos)<br>
+**Code development** [Alexandros Korkovelos](https://github.com/akorkovelos)<br> 
+**Review, Updates, Modifications:** [Alexandros Korkovelos](https://github.com/akorkovelos)<br>
+**Supervision, Review and Advisory support:** [Benjamin P. Stewart](https://github.com/bpstewar), [Ashish Shrestha](mailto:ashrestha1@worldbank.org), [Rhonda Lenai Jordan](mailto:rjordan@worldbank.org)<br>
 **Funding:** The World Bank
 
